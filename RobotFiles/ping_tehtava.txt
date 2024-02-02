@@ -1,0 +1,6 @@
+IP Address: [192.0.66.168], Average ping: 32ms
+IP Address: [13.33.243.70], Average ping: 18ms
+IP Address: [23.61.217.58], Average ping: 32ms
+IP Address: [192.0.66.168], Average ping: 16ms
+IP Address: [13.33.243.42], Average ping: 14ms
+IP Address: [23.61.217.58], Average ping: 20ms
